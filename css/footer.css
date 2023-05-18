@@ -19,17 +19,18 @@ justify-content: center;
 align-items: center;
 }
 .footersocials{
-    width: 30%;
+  background-color:rgba(204, 204, 204, 0.533);
+ width: 30%;
 height:80%;
 margin: 0 5px;
 display: flex;
 flex-wrap: wrap;
 align-items: center;
 justify-content: center;
+border-radius: 16px;
 }
 .footersocials span{
     color:#fff;
-    background-color:rgba(204, 204, 204, 0.533);
     font-weight: bolder;
     display: flex;
     justify-content: center;
